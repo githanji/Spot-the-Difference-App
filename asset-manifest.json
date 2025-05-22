@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Spot-the-Difference-App/static/css/main.6ad1228a.css",
+    "main.js": "/Spot-the-Difference-App/static/js/main.edabdf5a.js",
+    "static/js/453.dd87529f.chunk.js": "/Spot-the-Difference-App/static/js/453.dd87529f.chunk.js",
+    "index.html": "/Spot-the-Difference-App/index.html",
+    "main.6ad1228a.css.map": "/Spot-the-Difference-App/static/css/main.6ad1228a.css.map",
+    "main.edabdf5a.js.map": "/Spot-the-Difference-App/static/js/main.edabdf5a.js.map",
+    "453.dd87529f.chunk.js.map": "/Spot-the-Difference-App/static/js/453.dd87529f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ad1228a.css",
+    "static/js/main.edabdf5a.js"
+  ]
+}
