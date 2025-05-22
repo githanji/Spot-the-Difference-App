@@ -1,0 +1,15 @@
+{
+    "gameTitle": "Spot the Difference - Below Images",
+    "images": {
+      "image1": "./assets/firstimg.jpg",
+      "image2": "./assets/secondimg.jpg"
+    },
+    "differences": [
+      { "x": 5,   "y": 275, "width": 40, "height": 40 },
+      { "x": 355, "y": 260, "width": 40, "height": 40 },
+      { "x": 490, "y": 385, "width": 40, "height": 40 },
+      { "x": 235, "y": 395, "width": 40, "height": 40 },
+      { "x": 440, "y": 240, "width": 40, "height": 40 }
+    ]
+}
+  
